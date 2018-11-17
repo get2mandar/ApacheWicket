@@ -1,4 +1,4 @@
-package com.example;
+package blog.panditmandar.code.apachewicket;
 
 import org.apache.wicket.markup.html.basic.Label;
 import org.apache.wicket.markup.html.WebPage;
