@@ -9,7 +9,7 @@
 	<version>0.1</version>
 	<name>quickstart</name>
 	<properties>
-		<wicket.version>7.17.0</wicket.version>
+		<wicket.version>7.18.0</wicket.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<wtp.version>none</wtp.version>
 	</properties>
